@@ -4,81 +4,136 @@
 
 ## 支持的视频平台
 
-| 序号 | 网站                  | 字幕支持 | 弹幕支持      |
-| ---- | --------------------- | -------- | ------------- |
-| 1    | acfun.cn              | ❌       | ✅            |
-| 2    | alipan.com            | ✅       | ❌            |
-| 3    | amazon.com            | ✅       | ❌            |
-| 4    | primevideo.com        | ✅       | ❌            |
-| 5    | bilibili.com          | ✅       | ✅            |
-| 6    | live.bilibili.com     | ❌       | ✅            |
-| 7    | disneyplus.com        | ✅       | ❌            |
-| 8    | iqiyi.com             | ❌       | ✅            |
-| 9    | ixigua.com            | ❌       | ✅            |
-| 10   | youtube.com           | ✅       | ✅ (聊天弹幕) |
-| 11   | pan.baidu.com         | ✅       | ❌            |
-| 12   | facebook.com          | ✅       | ❌            |
-| 13   | ani.gamer.com.tw      | ❌       | ✅            |
-| 14   | huya.com              | ✅       | ✅            |
-| 15   | iyf.tv                | ✅       | ✅            |
-| 16   | mgtv.com              | ❌       | ✅            |
-| 17   | naver.com             | ✅       | ✅ (聊天弹幕) |
-| 18   | netflix.com           | ✅       | ❌            |
-| 19   | nicovideo.jp          | ❌       | ✅            |
-| 20   | live.nicovideo.jp     | ❌       | ✅            |
-| 21   | v.qq.com              | ❌       | ✅            |
-| 22   | twitch.tv             | ❌       | ✅ (聊天弹幕) |
-| 23   | sooplive.com          | ❌       | ✅ (聊天弹幕) |
-| 24   | sooplive.co.kr        | ❌       | ✅ (聊天弹幕) |
-| 25   | tiktok.com            | ❌       | ✅ (聊天弹幕) |
-| 26   | vimeo.com             | ✅       | ❌            |
-| 27   | youku.com             | ❌       | ✅            |
-| 28   | bbc.com               | ✅       | ❌            |
-| 29   | bbc.co.uk             | ✅       | ❌            |
-| 30   | canalplus.com         | ✅       | ❌            |
-| 31   | timvision.it          | ✅       | ❌            |
-| 32   | cbc.ca                | ✅       | ❌            |
-| 33   | dailymotion.com       | ✅       | ❌            |
-| 34   | edx.org               | ✅       | ❌            |
-| 35   | hbomax.com            | ✅       | ❌            |
-| 36   | hotstar.com           | ✅       | ❌            |
-| 37   | hulu.com              | ✅       | ❌            |
-| 38   | nytimes.com           | ✅       | ❌            |
-| 39   | ici.radio-canada.ca   | ✅       | ❌            |
-| 40   | sonyliv.com           | ✅       | ❌            |
-| 41   | tubitv.com            | ✅       | ❌            |
-| 42   | udemy.com             | ✅       | ❌            |
-| 43   | voot.com              | ✅       | ❌            |
-| 44   | washingtonpost.com    | ✅       | ❌            |
-| 45   | pbs.org               | ✅       | ❌            |
-| 46   | pbskids.org           | ✅       | ❌            |
-| 47   | viki.com              | ✅       | ❌            |
-| 48   | wired.com             | ✅       | ❌            |
-| 49   | nebula.app            | ✅       | ❌            |
-| 50   | abcnews.go.com        | ✅       | ❌            |
-| 51   | aol.com               | ✅       | ❌            |
-| 52   | arte.tv               | ✅       | ❌            |
-| 53   | brightcove.com        | ✅       | ❌            |
-| 54   | frontendmasters.com   | ✅       | ❌            |
-| 55   | mxplayer.in           | ✅       | ❌            |
-| 56   | svtplay.se            | ❌       | ❌            |
-| 57   | unrealmasterclass.com | ❌       | ❌            |
+| 网站                                                                              | 网站类型   | 字幕支持 | 弹幕支持      |
+| --------------------------------------------------------------------------------- | ---------- | -------- | ------------- |
+| <a href="https://abcnews.go.com" target="_blank">abcnews.go.com</a>               | 新闻媒体   | ✅(部分) | ❌            |
+| <a href="https://acfun.cn" target="_blank">acfun.cn</a>                           | 视频分享   | ❌       | ✅            |
+| <a href="https://aetv.com" target="_blank">aetv.com</a>                           | 电视网络   | ✅       | ❌            |
+| <a href="https://ahrefs.com" target="_blank">ahrefs.com</a>                       | 在线教育   | ✅       | ❌            |
+| <a href="https://alipan.com" target="_blank">alipan.com</a>                       | 云存储     | ✅       | ❌            |
+| <a href="https://aljazeera.com" target="_blank">aljazeera.com</a>                 | 新闻媒体   | ✅       | ❌            |
+| <a href="https://amazon.com" target="_blank">amazon.com</a>                       | 流媒体     | ✅       | ❌            |
+| <a href="https://ani.gamer.com.tw" target="_blank">ani.gamer.com.tw</a>           | 视频分享   | ❌       | ✅            |
+| <a href="https://aol.com" target="_blank">aol.com</a>                             | 新闻媒体   | ✅       | ❌            |
+| <a href="https://ardmediathek.de" target="_blank">ardmediathek.de</a>             | 电视网络   | ✅       | ❌            |
+| <a href="https://arte.tv" target="_blank">arte.tv</a>                             | 电视网络   | ✅       | ❌            |
+| <a href="https://artstation.com" target="_blank">artstation.com</a>               | 创意平台   | ✅       | ❌            |
+| <a href="https://bbc.co.uk" target="_blank">bbc.co.uk</a>                         | 电视网络   | ✅       | ❌            |
+| <a href="https://bbc.com" target="_blank">bbc.com</a>                             | 电视网络   | ✅       | ❌            |
+| <a href="https://bilibili.com" target="_blank">bilibili.com</a>                   | 视频分享   | ✅       | ✅            |
+| <a href="https://bloomberg.com" target="_blank">bloomberg.com</a>                 | 财经媒体   | ✅       | ❌            |
+| <a href="https://brightcove.com" target="_blank">brightcove.com</a>               | 视频平台   | ✅       | ❌            |
+| <a href="https://canalplus.com" target="_blank">canalplus.com</a>                 | 电视网络   | ✅       | ❌            |
+| <a href="https://cbc.ca" target="_blank">cbc.ca</a>                               | 电视网络   | ✅       | ❌            |
+| <a href="https://cbsnews.com" target="_blank">cbsnews.com</a>                     | 新闻媒体   | ✅       | ❌            |
+| <a href="https://coindesk.com" target="_blank">coindesk.com</a>                   | 财经媒体   | ✅       | ❌            |
+| <a href="https://coursera.org" target="_blank">coursera.org</a>                   | 在线教育   | ✅       | ❌            |
+| <a href="https://curiositystream.com" target="_blank">curiositystream.com</a>     | 流媒体     | ✅       | ❌            |
+| <a href="https://dailymotion.com" target="_blank">dailymotion.com</a>             | 视频分享   | ✅       | ❌            |
+| <a href="https://datacamp.com" target="_blank">datacamp.com</a>                   | 在线教育   | ✅       | ❌            |
+| <a href="https://developer.apple.com" target="_blank">developer.apple.com</a>     | 开发者平台 | ✅       | ❌            |
+| <a href="https://disneyplus.com" target="_blank">disneyplus.com</a>               | 流媒体     | ✅       | ❌            |
+| <a href="https://domestika.org" target="_blank">domestika.org</a>                 | 在线教育   | ✅       | ❌            |
+| <a href="https://dr.dk" target="_blank">dr.dk</a>                                 | 电视网络   | ✅       | ❌            |
+| <a href="https://edx.org" target="_blank">edx.org</a>                             | 在线教育   | ✅       | ❌            |
+| <a href="https://egghead.io" target="_blank">egghead.io</a>                       | 在线教育   | ✅       | ❌            |
+| <a href="https://espn.com" target="_blank">espn.com</a>                           | 体育媒体   | ✅       | ❌            |
+| <a href="https://f1tv.formula1.com" target="_blank">f1tv.formula1.com</a>         | 体育媒体   | ✅       | ❌            |
+| <a href="https://facebook.com" target="_blank">facebook.com</a>                   | 社交媒体   | ✅       | ❌            |
+| <a href="https://frontendmasters.com" target="_blank">frontendmasters.com</a>     | 在线教育   | ✅       | ❌            |
+| <a href="https://gagaoolala.com" target="_blank">gagaoolala.com</a>               | 流媒体     | ✅       | ❌            |
+| <a href="https://gaia.com" target="_blank">gaia.com</a>                           | 流媒体     | ✅       | ❌            |
+| <a href="https://hbogo.com" target="_blank">hbogo.com</a>                         | 流媒体     | ✅       | ❌            |
+| <a href="https://hbomax.com" target="_blank">hbomax.com</a>                       | 流媒体     | ✅       | ❌            |
+| <a href="https://hikaritv.net" target="_blank">hikaritv.net</a>                   | 电视网络   | ✅       | ❌            |
+| <a href="https://hotstar.com" target="_blank">hotstar.com</a>                     | 流媒体     | ✅       | ❌            |
+| <a href="https://hulu.com" target="_blank">hulu.com</a>                           | 流媒体     | ✅       | ❌            |
+| <a href="https://huya.com" target="_blank">huya.com</a>                           | 直播平台   | ✅       | ✅            |
+| <a href="https://ici.radio-canada.ca" target="_blank">ici.radio-canada.ca</a>     | 电视网络   | ✅       | ❌            |
+| <a href="https://imdb.com" target="_blank">imdb.com</a>                           | 电影数据库 | ✅       | ❌            |
+| <a href="https://iqiyi.com" target="_blank">iqiyi.com</a>                         | 视频分享   | ❌       | ✅            |
+| <a href="https://itv.com" target="_blank">itv.com</a>                             | 电视网络   | ✅       | ❌            |
+| <a href="https://iview.abc.net.au" target="_blank">iview.abc.net.au</a>           | 电视网络   | ✅       | ❌            |
+| <a href="https://ixigua.com" target="_blank">ixigua.com</a>                       | 视频分享   | ❌       | ✅            |
+| <a href="https://iyf.tv" target="_blank">iyf.tv</a>                               | 视频分享   | ✅       | ✅            |
+| <a href="https://jove.com" target="_blank">jove.com</a>                           | 在线教育   | ✅       | ❌            |
+| <a href="https://kanopy.com" target="_blank">kanopy.com</a>                       | 流媒体     | ✅       | ❌            |
+| <a href="https://khanacademy.org" target="_blank">khanacademy.org</a>             | 在线教育   | ✅       | ❌            |
+| <a href="https://kika.de" target="_blank">kika.de</a>                             | 电视网络   | ✅       | ❌            |
+| <a href="https://lecturio.com" target="_blank">lecturio.com</a>                   | 在线教育   | ✅       | ❌            |
+| <a href="https://linkedin.com" target="_blank">linkedin.com</a>                   | 专业社交   | ✅       | ❌            |
+| <a href="https://live.bilibili.com" target="_blank">live.bilibili.com</a>         | 直播平台   | ❌       | ✅            |
+| <a href="https://live.nicovideo.jp" target="_blank">live.nicovideo.jp</a>         | 直播平台   | ❌       | ✅            |
+| <a href="https://masterclass.com" target="_blank">masterclass.com</a>             | 在线教育   | ✅       | ❌            |
+| <a href="https://medbridge.com" target="_blank">medbridge.com</a>                 | 在线教育   | ✅       | ❌            |
+| <a href="https://medici.tv" target="_blank">medici.tv</a>                         | 古典音乐   | ✅       | ❌            |
+| <a href="https://mgtv.com" target="_blank">mgtv.com</a>                           | 视频分享   | ❌       | ✅            |
+| <a href="https://mindvalley.com" target="_blank">mindvalley.com</a>               | 在线教育   | ✅       | ❌            |
+| <a href="https://mxplayer.in" target="_blank">mxplayer.in</a>                     | 流媒体     | ✅       | ❌            |
+| <a href="https://naver.com" target="_blank">naver.com</a>                         | 视频分享   | ✅       | ✅ (聊天弹幕) |
+| <a href="https://nebula.app" target="_blank">nebula.app</a>                       | 流媒体     | ✅       | ❌            |
+| <a href="https://netflix.com" target="_blank">netflix.com</a>                     | 流媒体     | ✅       | ❌            |
+| <a href="https://nicovideo.jp" target="_blank">nicovideo.jp</a>                   | 视频分享   | ❌       | ✅            |
+| <a href="https://nrk.no" target="_blank">nrk.no</a>                               | 电视网络   | ✅       | ❌            |
+| <a href="https://nytimes.com" target="_blank">nytimes.com</a>                     | 新闻媒体   | ✅       | ❌            |
+| <a href="https://packtpub.com" target="_blank">packtpub.com</a>                   | 在线教育   | ✅       | ❌            |
+| <a href="https://pan.baidu.com" target="_blank">pan.baidu.com</a>                 | 云存储     | ✅       | ❌            |
+| <a href="https://paramountplus.com" target="_blank">paramountplus.com</a>         | 流媒体     | ✅       | ❌            |
+| <a href="https://patreon.com" target="_blank">patreon.com</a>                     | 创作者平台 | ✅       | ❌            |
+| <a href="https://pbs.org" target="_blank">pbs.org</a>                             | 电视网络   | ✅       | ❌            |
+| <a href="https://pbskids.org" target="_blank">pbskids.org</a>                     | 儿童教育   | ✅       | ❌            |
+| <a href="https://plex.tv" target="_blank">plex.tv</a>                             | 媒体服务器 | ✅       | ❌            |
+| <a href="https://pluto.tv" target="_blank">pluto.tv</a>                           | 流媒体     | ✅       | ❌            |
+| <a href="https://primevideo.com" target="_blank">primevideo.com</a>               | 流媒体     | ✅       | ❌            |
+| <a href="https://reuters.com" target="_blank">reuters.com</a>                     | 新闻媒体   | ✅       | ❌            |
+| <a href="https://rtve.es" target="_blank">rtve.es</a>                             | 电视网络   | ✅       | ❌            |
+| <a href="https://rumble.com" target="_blank">rumble.com</a>                       | 视频分享   | ✅       | ❌            |
+| <a href="https://skillshare.com" target="_blank">skillshare.com</a>               | 在线教育   | ✅       | ❌            |
+| <a href="https://sonyliv.com" target="_blank">sonyliv.com</a>                     | 流媒体     | ✅       | ❌            |
+| <a href="https://sooplive.co.kr" target="_blank">sooplive.co.kr</a>               | 直播平台   | ❌       | ✅ (聊天弹幕) |
+| <a href="https://sooplive.com" target="_blank">sooplive.com</a>                   | 直播平台   | ❌       | ✅ (聊天弹幕) |
+| <a href="https://starz.com" target="_blank">starz.com</a>                         | 流媒体     | ✅       | ❌            |
+| <a href="https://svtplay.se" target="_blank">svtplay.se</a>                       | 电视网络   | ✅       | ❌            |
+| <a href="https://ted.com" target="_blank">ted.com</a>                             | 演讲平台   | ✅       | ❌            |
+| <a href="https://thaipbs.or.th" target="_blank">thaipbs.or.th</a>                 | 电视网络   | ✅       | ❌            |
+| <a href="https://tiktok.com" target="_blank">tiktok.com</a>                       | 社交媒体   | ❌       | ✅ (聊天弹幕) |
+| <a href="https://timvision.it" target="_blank">timvision.it</a>                   | 流媒体     | ✅       | ❌            |
+| <a href="https://tubitv.com" target="_blank">tubitv.com</a>                       | 流媒体     | ✅       | ❌            |
+| <a href="https://tv.youtube.com" target="_blank">tv.youtube.com</a>               | 电视流媒体 | ✅       | ❌            |
+| <a href="https://tver.jp" target="_blank">tver.jp</a>                             | 电视网络   | ✅       | ❌            |
+| <a href="https://twitch.tv" target="_blank">twitch.tv</a>                         | 直播平台   | ❌       | ✅ (聊天弹幕) |
+| <a href="https://unity.com" target="_blank">unity.com</a>                         | 开发者平台 | ✅       | ❌            |
+| <a href="https://unrealmasterclass.com" target="_blank">unrealmasterclass.com</a> | 在线教育   | ❌       | ❌            |
+| <a href="https://urplay.se" target="_blank">urplay.se</a>                         | 电视网络   | ✅       | ❌            |
+| <a href="https://v.qq.com" target="_blank">v.qq.com</a>                           | 视频分享   | ❌       | ✅            |
+| <a href="https://viki.com" target="_blank">viki.com</a>                           | 流媒体     | ✅       | ❌            |
+| <a href="https://vimeo.com" target="_blank">vimeo.com</a>                         | 视频分享   | ✅       | ❌            |
+| <a href="https://vk.com" target="_blank">vk.com</a>                               | 社交媒体   | ✅       | ❌            |
+| <a href="https://voot.com" target="_blank">voot.com</a>                           | 流媒体     | ✅       | ❌            |
+| <a href="https://washingtonpost.com" target="_blank">washingtonpost.com</a>       | 新闻媒体   | ✅       | ❌            |
+| <a href="https://weverse.io" target="_blank">weverse.io</a>                       | 娱乐社交   | ✅       | ❌            |
+| <a href="https://wired.com" target="_blank">wired.com</a>                         | 科技媒体   | ✅       | ❌            |
+| <a href="https://wsj.com" target="_blank">wsj.com</a>                             | 财经媒体   | ✅       | ❌            |
+| <a href="https://youku.com" target="_blank">youku.com</a>                         | 视频分享   | ❌       | ✅            |
+| <a href="https://youtube.com" target="_blank">youtube.com</a>                     | 视频分享   | ✅       | ✅ (聊天弹幕) |
+| <a href="https://youtubekids.com" target="_blank">youtubekids.com</a>             | 儿童视频   | ✅       | ❌            |
+| <a href="https://zdf.de" target="_blank">zdf.de</a>                               | 电视网络   | ✅       | ❌            |
 
 ## 通用视频播放器
 
 DualPiP 还支持网络上使用的热门视频播放器库：
 
-| 序号 | 播放器名称         | 字幕支持 | 弹幕支持 |
-| ---- | ------------------ | -------- | -------- |
-| 58   | Video.js           | ✅       | ❌       |
-| 59   | THEOplayer         | ✅       | ❌       |
-| 60   | JW Player          | ✅       | ❌       |
-| 61   | Plyr               | ✅       | ❌       |
-| 62   | 通用字幕播放器     | ✅       | ❌       |
-| 63   | 通用播放器         | ✅       | ❌       |
-| 64   | 通用文本轨道播放器 | ✅       | ❌       |
-| 65   | ArtPlayer          | ✅       | ✅       |
-| 66   | AliPlayer          | ✅       | ✅       |
+| 播放器名称         | 播放器类型   | 字幕支持 | 弹幕支持 |
+| ------------------ | ------------ | -------- | -------- |
+| AliPlayer          | 商业播放器   | ✅       | ✅       |
+| ArtPlayer          | 开源播放器   | ✅       | ✅       |
+| JW Player          | 商业播放器   | ✅       | ❌       |
+| Plyr               | 开源播放器   | ✅       | ❌       |
+| THEOplayer         | 商业播放器   | ✅       | ❌       |
+| Video.js           | 开源播放器   | ✅       | ❌       |
+| 通用播放器         | 通用解决方案 | ✅       | ❌       |
+| 通用文本轨道播放器 | 通用解决方案 | ✅       | ❌       |
+| 通用字幕播放器     | 通用解决方案 | ✅       | ❌       |
 
 ## 外挂字幕格式支持
 
@@ -86,18 +141,9 @@ DualPiP 支持使用以下格式外挂字幕文件的任何网站：
 
 **支持的格式：** VTT / SRT / ASS / EBUTT / TTML2 / XML / DFXP / JSON / TimedText
 
-| 序号 | 网站类型            | 字幕支持 | 弹幕支持 |
-| ---- | ------------------- | -------- | -------- |
-| 67   | 任意 HTML5 视频网站 | ✅       | ❌       |
-
-## 统计摘要
-
-- **总平台数**：67（57 个网站 + 9 个通用播放器 + 1 个外挂字幕支持）
-- **支持字幕的平台**：48 个平台（71.6%）
-- **支持弹幕的平台**：22 个平台（32.8%）
-  - 传统弹幕：16 个平台
-  - 聊天弹幕：6 个平台
-- **同时支持两种功能的平台**：8 个平台（12.1%）
+| 网站类型            | 支持范围     | 字幕支持 | 弹幕支持 |
+| ------------------- | ------------ | -------- | -------- |
+| 任意 HTML5 视频网站 | 通用解决方案 | ✅       | ❌       |
 
 ## 图例和说明
 
@@ -108,84 +154,11 @@ DualPiP 支持使用以下格式外挂字幕文件的任何网站：
 - **通用播放器支持** - 适用于使用相应播放器技术的任何网站
 - **外挂字幕支持** - 与任何支持外挂字幕文件的 HTML5 视频标签兼容
 
-## 平台分类
-
-### 🎬 流媒体服务
-
-Netflix、Disney+、Amazon Prime Video、Hulu、HBO Max 等主要流媒体平台，支持字幕功能。
-
-### 📺 亚洲平台
-
-B 站、爱奇艺、优酷等在亚洲地区流行的平台，同时支持字幕和弹幕功能。
-
-### 🎓 教育平台
-
-Udemy、edX、Frontend Masters 等学习平台，提供全面的字幕支持。
-
-### 📰 新闻和媒体
-
-BBC、CNN、纽约时报等新闻平台，具备字幕功能。
-
-### 🎮 直播平台
-
-Twitch、YouTube Live、虎牙等，集成聊天弹幕实现实时互动。
-
-## 平台特色功能
-
-### B 站 (bilibili.com)
-
-- ✅ 完整的弹幕系统支持
-- ✅ 双语字幕显示
-- ✅ 缩略图预览
-- ✅ 高级播放控制
-
-### YouTube
-
-- ✅ 自动字幕检测
-- ✅ 多语言字幕支持
-- ✅ 直播聊天弹幕
-- ✅ 高级进度控制
-
-### Netflix
-
-- ✅ 多语言字幕
-- ✅ 音轨选择
-- ✅ 剧集导航
-- ❌ 弹幕功能（平台限制）
-
-### Twitch
-
-- ✅ 实时聊天弹幕
-- ✅ 流质量控制
-- ✅ 全屏兼容性
-- ❌ 嵌入字幕支持
-
-## 更新和扩展
-
-DualPiP 团队持续努力扩大平台支持范围：
-
-### 即将支持的平台
-
-- 更多教育平台
-- 新兴的短视频平台
-- 地区性流媒体服务
-- 企业培训平台
-
-### 增强功能开发
-
-- 改进的弹幕过滤和样式
-- 更好的字幕同步
-- 高级缩略图功能
-- 自定义播放器集成
-
 ::: tip 提示
 DualPiP 持续添加对新平台的支持。如果您没有看到您喜爱的平台列在其中，请检查更新或联系我们的支持团队。
+您还可以访问 <a href="https://github.com/dualpip/dualpip/issues" target="_blank">https://github.com/dualpip/dualpip/issues</a> 提交需要支持的网站
 :::
 
 ::: warning 注意
 某些平台由于技术限制、DRM 保护或服务条款可能无法完全支持所有功能。请参阅[扩展限制页面](/zh_CN/limitations)了解详细信息。
 :::
-
----
-
-todo

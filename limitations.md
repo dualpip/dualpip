@@ -48,5 +48,3 @@ DualPiP cannot bypass Digital Rights Management protection on videos.
 Some embedded videos from different domains may have limited functionality.
 
 ---
-
-todo

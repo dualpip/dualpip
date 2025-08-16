@@ -31,5 +31,3 @@ DualPiP 需要支持 DocumentPictureInPicture API 的浏览器：
 [快速开始指南](/zh_CN/quick-start){ .vp-button .primary }
 
 ---
-
-todo

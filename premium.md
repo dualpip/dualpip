@@ -33,4 +33,21 @@ For current pricing and to purchase Pro version, visit:
 
 ---
 
-todo
+## How to Activate After Purchase?
+
+After purchase, you can obtain the activation code through:
+
+- Email confirmation
+- Official website **Account** menu (top right) → Order Management → Redemption Code Orders
+
+Copy the redemption code and visit our [redemption page](https://www.rabbitpair.com/exchange) to activate your Pro version access.
+
+## Pro Version Not Working After Activation?
+
+If premium features are not available after activation:
+
+1. Open extension settings page
+2. Click login in the bottom right corner
+3. If already logged in, after activating the redemption code, click **Refresh** in the expanded menu under user information in the bottom left corner
+
+This will sync your latest status.

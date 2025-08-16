@@ -17,5 +17,3 @@ Fixed purchase link error.
 First release.
 
 ---
-
-todo

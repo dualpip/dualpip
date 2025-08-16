@@ -33,5 +33,3 @@ DualPiP 支持多种视频平台。详情请查看[平台支持列表](/zh_CN/vi
 [安装 DualPiP](/zh_CN/installation){ .vp-button .primary }
 
 ---
-
-todo
