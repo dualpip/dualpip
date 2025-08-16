@@ -33,5 +33,3 @@ DualPiP supports various video platforms. See the [platform support list](/video
 [Install DualPiP](/installation){ .vp-button .primary }
 
 ---
-
-todo

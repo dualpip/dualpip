@@ -31,5 +31,3 @@ To verify installation:
 [Quick Start Guide](/quick-start){ .vp-button .primary }
 
 ---
-
-todo

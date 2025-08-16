@@ -2,6 +2,16 @@
 
 ## Basic Usage
 
+## Pin Extension
+
+Pin DualPiP to your toolbar for quick access:
+
+1. Click the puzzle icon in the Chrome toolbar.
+2. Find DualPiP in the extension list and click the pin icon next to DualPiP to pin it to the toolbar.  
+   ![](https://static.dualpip.cc/doc_image/pin_extension.webp?v=1.1.0)
+
+---
+
 ### Step 1: Navigate to a Video
 
 Visit any supported video platform.
@@ -20,5 +30,3 @@ The video will open in a floating window with enhanced controls.
 - [Learn about limitations](/limitations)
 
 ---
-
-todo
