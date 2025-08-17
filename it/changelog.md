@@ -1,5 +1,10 @@
 # Registro delle Modifiche
 
+## Versione 1.1.1
+
+- Aggiornato il supporto dei sottotitoli per visualizzare testo originale e testo tradotto separatamente con impostazioni di stile individuali
+- Ottimizzato il rilevamento della lingua dei sottotitoli
+
 ## Versione 1.1.0
 
 - Aggiunto supporto per traduzione IA integrata di Chrome e capacità di rilevamento lingua (predefinito nessun accesso cloud, i modelli vengono scaricati, eseguiti e memorizzati localmente, richiede Chrome 138+)

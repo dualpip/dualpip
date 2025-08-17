@@ -1,5 +1,10 @@
 # Registro de Alterações
 
+## Versão 1.1.1
+
+- Atualizado o suporte de legendas para exibir texto original e texto traduzido separadamente com configurações de estilo individuais
+- Otimizada a detecção de idioma das legendas
+
 ## Versão 1.1.0
 
 - Adicionado suporte para tradução IA integrada do Chrome e capacidades de detecção de idioma (padrão sem acesso à nuvem, modelos são baixados, executados e armazenados localmente, requer Chrome 138+)

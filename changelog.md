@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 1.1.1
+
+- Updated subtitle support to display original text and translated text separately with individual style settings
+- Optimized subtitle language detection
+
 ## Version 1.1.0
 
 - Added support for Chrome's built-in AI translation and language detection capabilities (defaults to no cloud access, models are downloaded, run, and cached locally, requires Chrome 138+)

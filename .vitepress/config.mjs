@@ -576,5 +576,8 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/dualpip/dualpip' }
     ]
+  },
+  sitemap: {
+    hostname: 'https://www.dualpip.cc'
   }
 })
