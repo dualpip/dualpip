@@ -1,5 +1,10 @@
 # Änderungsprotokoll
 
+## Version 1.1.1
+
+- Aktualisierte Untertitelunterstützung zur separaten Anzeige von Originaltext und übersetztem Text mit individuellen Stileinstellungen
+- Optimierte Untertitelspracherkennung
+
 ## Version 1.1.0
 
 - Unterstützung für Chromes integrierte KI-Übersetzung und Spracherkennung hinzugefügt (standardmäßig kein Cloud-Zugriff, Modelle werden lokal heruntergeladen, ausgeführt und zwischengespeichert, erfordert Chrome 138+)

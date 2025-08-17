@@ -1,5 +1,10 @@
 # Ändringslogg
 
+## Version 1.1.1
+
+- Uppdaterat undertextstöd för att visa originaltext och översatt text separat med individuella stilinställningar
+- Optimerad språkdetektering för undertexter
+
 ## Version 1.1.0
 
 - Lagt till stöd för Chromes inbyggda AI-översättning och språkdetektionskapaciteter (standard ingen molnåtkomst, modeller laddas ner, körs och lagras lokalt, kräver Chrome 138+)
