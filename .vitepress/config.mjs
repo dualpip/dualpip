@@ -579,5 +579,6 @@ export default defineConfig({
   },
   sitemap: {
     hostname: 'https://www.dualpip.cc'
-  }
+  },
+  cleanUrls: true
 })

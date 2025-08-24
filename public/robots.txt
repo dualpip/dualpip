@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /contact/
+
+Sitemap: https://www.dualpip.cc/sitemap.xml
