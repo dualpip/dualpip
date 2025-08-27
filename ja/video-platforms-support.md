@@ -4,131 +4,137 @@
 
 ## サポートされている動画プラットフォーム
 
-| ウェブサイト                    | ウェブサイトタイプ             | 字幕サポート | 弾幕サポート      |
-| ------------------------------- | ------------------------------ | ------------ | ----------------- |
-| abcnews.go.com                  | ニュースメディア               | ✅(部分的)   | ❌                |
-| acfun.cn                        | 動画共有                       | ❌           | ✅                |
-| academy.qt.io                   | オンライン教育                 | ✅           | ❌                |
-| aetv.com                        | TV ネットワーク                | ✅           | ❌                |
-| ahrefs.com                      | オンライン教育                 | ✅           | ❌                |
-| alipan.com                      | クラウドストレージ             | ✅           | ❌                |
-| aljazeera.com                   | ニュースメディア               | ✅           | ❌                |
-| amazon.com                      | ストリーミングサービス         | ✅           | ❌                |
-| ani.gamer.com.tw                | 動画共有                       | ❌           | ✅                |
-| aol.com                         | ニュースメディア               | ✅           | ❌                |
-| ardmediathek.de                 | TV ネットワーク                | ✅           | ❌                |
-| arte.tv                         | TV ネットワーク                | ✅           | ❌                |
-| artstation.com                  | クリエイティブプラットフォーム | ✅           | ❌                |
-| bbc.co.uk                       | TV ネットワーク                | ✅           | ❌                |
-| bbc.com                         | TV ネットワーク                | ✅           | ❌                |
-| bilibili.com                    | 動画共有                       | ✅           | ✅                |
-| bloomberg.com                   | 金融メディア                   | ✅           | ❌                |
-| brightcove.com                  | 動画プラットフォーム           | ✅           | ❌                |
-| canalplus.com                   | TV ネットワーク                | ✅           | ❌                |
-| cbc.ca                          | TV ネットワーク                | ✅           | ❌                |
-| cbsnews.com                     | ニュースメディア               | ✅           | ❌                |
-| coindesk.com                    | 金融メディア                   | ✅           | ❌                |
-| coursera.org                    | オンライン教育                 | ✅           | ❌                |
-| curiositystream.com             | ストリーミングサービス         | ✅           | ❌                |
-| dailymotion.com                 | 動画共有                       | ✅           | ❌                |
-| datacamp.com                    | オンライン教育                 | ✅           | ❌                |
-| developer.apple.com             | 開発者プラットフォーム         | ✅           | ❌                |
-| disneyplus.com                  | ストリーミングサービス         | ✅           | ❌                |
-| drive.google.com                | クラウドストレージ             | ✅           | ❌                |
-| domestika.org                   | オンライン教育                 | ✅           | ❌                |
-| dr.dk                           | TV ネットワーク                | ✅           | ❌                |
-| edx.org                         | オンライン教育                 | ✅           | ❌                |
-| egghead.io                      | オンライン教育                 | ✅           | ❌                |
-| espn.com                        | スポーツメディア               | ✅           | ❌                |
-| f1tv.formula1.com               | スポーツメディア               | ✅           | ❌                |
-| facebook.com                    | ソーシャルメディア             | ✅           | ❌                |
-| www.foxnews.com                 | ニュースメディア               | ✅           | ❌                |
-| frontendmasters.com             | オンライン教育                 | ✅           | ❌                |
-| gagaoolala.com                  | ストリーミングサービス         | ✅           | ❌                |
-| gaia.com                        | ストリーミングサービス         | ✅           | ❌                |
-| hbogo.com                       | ストリーミングサービス         | ✅           | ❌                |
-| hbomax.com                      | ストリーミングサービス         | ✅           | ❌                |
-| hikaritv.net                    | TV ネットワーク                | ✅           | ❌                |
-| hotstar.com                     | ストリーミングサービス         | ✅           | ❌                |
-| hulu.com                        | ストリーミングサービス         | ✅           | ❌                |
-| huya.com                        | ライブストリーミング           | ✅           | ✅                |
-| ici.radio-canada.ca             | TV ネットワーク                | ✅           | ❌                |
-| imdb.com                        | 映画データベース               | ✅           | ❌                |
-| iqiyi.com                       | 動画共有                       | ❌           | ✅                |
-| itv.com                         | TV ネットワーク                | ✅           | ❌                |
-| iview.abc.net.au                | TV ネットワーク                | ✅           | ❌                |
-| ixigua.com                      | 動画共有                       | ❌           | ✅                |
-| iyf.tv                          | 動画共有                       | ✅           | ✅                |
-| jove.com                        | オンライン教育                 | ✅           | ❌                |
-| kanopy.com                      | ストリーミングサービス         | ✅           | ❌                |
-| khanacademy.org                 | オンライン教育                 | ✅           | ❌                |
-| kika.de                         | TV ネットワーク                | ✅           | ❌                |
-| lecturio.com                    | オンライン教育                 | ✅           | ❌                |
-| learn.deeplearning.ai           | オンライン教育                 | ✅           | ❌                |
-| learn.udacity.com               | オンライン教育                 | ✅           | ❌                |
-| linkedin.com                    | プロフェッショナルソーシャル   | ✅           | ❌                |
-| live.bilibili.com               | ライブストリーミング           | ❌           | ✅                |
-| live.nicovideo.jp               | ライブストリーミング           | ❌           | ✅                |
-| masterclass.com                 | オンライン教育                 | ✅           | ❌                |
-| medbridge.com                   | オンライン教育                 | ✅           | ❌                |
-| medici.tv                       | クラシック音楽                 | ✅           | ❌                |
-| mgtv.com                        | 動画共有                       | ❌           | ✅                |
-| mindvalley.com                  | オンライン教育                 | ✅           | ❌                |
-| mxplayer.in                     | ストリーミングサービス         | ✅           | ❌                |
-| naver.com                       | 動画共有                       | ✅           | ✅ (チャット弾幕) |
-| nbcnews.com                     | ニュースメディア               | ✅           | ❌                |
-| nebula.app                      | ストリーミングサービス         | ✅           | ❌                |
-| netflix.com                     | ストリーミングサービス         | ✅           | ❌                |
-| nicovideo.jp                    | 動画共有                       | ❌           | ✅                |
-| nrk.no                          | TV ネットワーク                | ✅           | ❌                |
-| nytimes.com                     | ニュースメディア               | ✅           | ❌                |
-| packtpub.com                    | オンライン教育                 | ✅           | ❌                |
-| pan.baidu.com                   | クラウドストレージ             | ✅           | ❌                |
-| psychwire.com                   | オンライン教育                 | ✅           | ❌                |
-| paramountplus.com               | ストリーミングサービス         | ✅           | ❌                |
-| patreon.com                     | クリエイタープラットフォーム   | ✅           | ❌                |
-| pbs.org                         | TV ネットワーク                | ✅           | ❌                |
-| pbskids.org                     | 子供向け教育                   | ✅           | ❌                |
-| plex.tv                         | メディアサーバー               | ✅           | ❌                |
-| pluto.tv                        | ストリーミングサービス         | ✅           | ❌                |
-| primevideo.com                  | ストリーミングサービス         | ✅           | ❌                |
-| reuters.com                     | ニュースメディア               | ✅           | ❌                |
-| rtve.es                         | TV ネットワーク                | ✅           | ❌                |
-| rumble.com                      | 動画共有                       | ✅           | ❌                |
-| school.grishastewart.com        | オンライン教育                 | ✅           | ❌                |
-| skillshare.com                  | オンライン教育                 | ✅           | ❌                |
-| sonyliv.com                     | ストリーミングサービス         | ✅           | ❌                |
-| sooplive.co.kr                  | ライブストリーミング           | ❌           | ✅ (チャット弾幕) |
-| sooplive.com                    | ライブストリーミング           | ❌           | ✅ (チャット弾幕) |
-| starz.com                       | ストリーミングサービス         | ✅           | ❌                |
-| svtplay.se                      | TV ネットワーク                | ✅           | ❌                |
-| ted.com                         | スピーチプラットフォーム       | ✅           | ❌                |
-| thaipbs.or.th                   | TV ネットワーク                | ✅           | ❌                |
-| threejs-journey.com             | オンライン教育                 | ✅           | ❌                |
-| tiktok.com                      | ソーシャルメディア             | ❌           | ✅ (チャット弾幕) |
-| timvision.it                    | ストリーミングサービス         | ✅           | ❌                |
-| tubitv.com                      | ストリーミングサービス         | ✅           | ❌                |
-| tv.youtube.com                  | TV ストリーミング              | ✅           | ❌                |
-| tver.jp                         | TV ネットワーク                | ✅           | ❌                |
-| twitch.tv                       | ライブストリーミング           | ❌           | ✅ (チャット弾幕) |
-| unity.com                       | 開発者プラットフォーム         | ✅           | ❌                |
-| unrealmasterclass.com           | オンライン教育                 | ❌           | ❌                |
-| updraft.cyfrin.io               | オンライン教育                 | ✅           | ❌                |
-| urplay.se                       | TV ネットワーク                | ✅           | ❌                |
-| v.qq.com                        | 動画共有                       | ❌           | ✅                |
-| viki.com                        | ストリーミングサービス         | ✅           | ❌                |
-| vimeo.com                       | 動画共有                       | ✅           | ❌                |
-| vk.com                          | ソーシャルメディア             | ✅           | ❌                |
-| voot.com                        | ストリーミングサービス         | ✅           | ❌                |
-| washingtonpost.com              | ニュースメディア               | ✅           | ❌                |
-| weverse.io                      | エンターテイメントソーシャル   | ✅           | ❌                |
-| www.feynmanlectures.caltech.edu | オンライン教育                 | ✅           | ❌                |
-| wired.com                       | テックメディア                 | ✅           | ❌                |
-| wsj.com                         | 金融メディア                   | ✅           | ❌                |
-| youku.com                       | 動画共有                       | ❌           | ✅                |
-| youtube.com                     | 動画共有                       | ✅           | ✅ (チャット弾幕) |
-| youtubekids.com                 | 子供向け動画                   | ✅           | ❌                |
-| zdf.de                          | TV ネットワーク                | ✅           | ❌                |
+### 動画＆ストリーミング
+
+| ウェブサイト                                                                  | 国/地域      | 言語           | 字幕サポート | 弾幕サポート      | 説明                                                                 |
+| ----------------------------------------------------------------------------- | ------------ | -------------- | ------------ | ----------------- | -------------------------------------------------------------------- |
+| <a href="https://nicovideo.jp" target="_blank">nicovideo.jp</a>               | 日本         | 日本語         | ❌           | ✅                | 日本の有名な弾幕動画共有サイト                                       |
+| <a href="https://youtube.com" target="_blank">youtube.com</a>                 | アメリカ     | 多言語         | ✅           | ✅ (チャット弾幕) | 世界最大の動画共有サイト                                             |
+| <a href="https://netflix.com" target="_blank">netflix.com</a>                 | アメリカ     | 多言語         | ✅           | ❌                | 世界有数のストリーミングエンターテイメントサービス                   |
+| <a href="https://disneyplus.com" target="_blank">disneyplus.com</a>           | アメリカ     | 多言語         | ✅           | ❌                | ディズニーのストリーミングサービス                                   |
+| <a href="https://primevideo.com" target="_blank">primevideo.com</a>           | アメリカ     | 多言語         | ✅           | ❌                | Amazon のストリーミングビデオサービス                                |
+| <a href="https://hulu.com" target="_blank">hulu.com</a>                       | アメリカ     | 英語           | ✅           | ❌                | テレビ番組、映画、オリジナルコンテンツのストリーミングサービス       |
+| <a href="https://iyf.tv" target="_blank">iyf.tv</a>                           | 国際         | 中国語         | ✅           | ✅                | 海外運営の中国語動画サイト                                           |
+| <a href="https://bilibili.com" target="_blank">bilibili.com</a>               | 中国         | 中国語         | ✅           | ✅                | 中国の若者向け大手文化コミュニティ・動画プラットフォーム             |
+| <a href="https://v.qq.com" target="_blank">v.qq.com</a>                       | 中国         | 中国語         | ❌           | ✅                | テンセントビデオは中国有数のオンラインビデオメディアプラットフォーム |
+| <a href="https://youku.com" target="_blank">youku.com</a>                     | 中国         | 中国語         | ❌           | ✅                | Youku は中国有数のオンラインビデオメディアプラットフォーム           |
+| <a href="https://iqiyi.com" target="_blank">iqiyi.com</a>                     | 中国         | 中国語         | ❌           | ✅                | iQIYI は中国有数のオンラインビデオメディアプラットフォーム           |
+| <a href="https://acfun.cn" target="_blank">acfun.cn</a>                       | 中国         | 中国語         | ❌           | ✅                | AcFun は中国で最も初期の弾幕動画サイトの一つ                         |
+| <a href="https://ixigua.com" target="_blank">ixigua.com</a>                   | 中国         | 中国語         | ❌           | ✅                | Xigua Video は ByteDance 傘下の動画プラットフォーム                  |
+| <a href="https://mgtv.com" target="_blank">mgtv.com</a>                       | 中国         | 中国語         | ❌           | ✅                | Mango TV は湖南放送協会傘下のインターネット動画プラットフォーム      |
+| <a href="https://ani.gamer.com.tw" target="_blank">ani.gamer.com.tw</a>       | 台湾         | 中国語         | ❌           | ✅                | Bahamut Anime は台湾最大の合法アニメストリーミングプラットフォーム   |
+| <a href="https://amazon.com" target="_blank">amazon.com</a>                   | アメリカ     | 多言語         | ✅           | ❌                | Amazon ウェブサイトに含まれるビデオコンテンツ                        |
+| <a href="https://brightcove.com" target="_blank">brightcove.com</a>           | アメリカ     | 英語           | ✅           | ❌                | 企業向けビデオクラウドサービスを提供するプラットフォーム             |
+| <a href="https://curiositystream.com" target="_blank">curiositystream.com</a> | アメリカ     | 英語           | ✅           | ❌                | ドキュメンタリーやノンフィクションコンテンツのストリーミングサービス |
+| <a href="https://dailymotion.com" target="_blank">dailymotion.com</a>         | フランス     | 多言語         | ✅           | ❌                | フランスの動画共有サイト                                             |
+| <a href="https://gagaoolala.com" target="_blank">gagaoolala.com</a>           | 台湾         | 多言語         | ✅           | ❌                | アジア初の LGBTQ+テーマのストリーミングプラットフォーム              |
+| <a href="https://gaia.com" target="_blank">gaia.com</a>                       | アメリカ     | 英語           | ✅           | ❌                | ヨガ、瞑想、自己啓発コンテンツのストリーミングサービス               |
+| <a href="https://hbogo.com" target="_blank">hbogo.com</a>                     | アメリカ     | 多言語         | ✅           | ❌                | HBO のストリーミングサービス（一部地域）                             |
+| <a href="https://hbomax.com" target="_blank">hbomax.com</a>                   | アメリカ     | 多言語         | ✅           | ❌                | WarnerMedia のストリーミングプラットフォーム                         |
+| <a href="https://hotstar.com" target="_blank">hotstar.com</a>                 | インド       | 多言語         | ✅           | ❌                | インド有数のストリーミングプラットフォーム                           |
+| <a href="https://kanopy.com" target="_blank">kanopy.com</a>                   | アメリカ     | 英語           | ✅           | ❌                | 公共図書館や大学を通じて映画を配信するストリーミングサービス         |
+| <a href="https://mxplayer.in" target="_blank">mxplayer.in</a>                 | インド       | 多言語         | ✅           | ❌                | インドのビデオプレーヤー兼ストリーミングサービス                     |
+| <a href="https://nebula.app" target="_blank">nebula.app</a>                   | アメリカ     | 英語           | ✅           | ❌                | クリエイターが所有・運営するストリーミングサービス                   |
+| <a href="https://paramountplus.com" target="_blank">paramountplus.com</a>     | アメリカ     | 多言語         | ✅           | ❌                | Paramount Global のストリーミングサービス                            |
+| <a href="https://plex.tv" target="_blank">plex.tv</a>                         | アメリカ     | 多言語         | ✅           | ❌                | ストリーミングコンテンツを提供するメディアサーバープラットフォーム   |
+| <a href="https://pluto.tv" target="_blank">pluto.tv</a>                       | アメリカ     | 多言語         | ✅           | ❌                | 広告付き無料ストリーミングサービス                                   |
+| <a href="https://rumble.com" target="_blank">rumble.com</a>                   | カナダ       | 英語           | ✅           | ❌                | カナダの動画共有プラットフォーム                                     |
+| <a href="https://sonyliv.com" target="_blank">sonyliv.com</a>                 | インド       | 多言語         | ✅           | ❌                | ソニーのインド向けストリーミングサービス                             |
+| <a href="https://starz.com" target="_blank">starz.com</a>                     | アメリカ     | 英語           | ✅           | ❌                | アメリカのプレミアムケーブルネットワーク兼ストリーミングサービス     |
+| <a href="https://timvision.it" target="_blank">timvision.it</a>               | イタリア     | イタリア語     | ✅           | ❌                | Telecom Italia のストリーミングサービス                              |
+| <a href="https://tubitv.com" target="_blank">tubitv.com</a>                   | アメリカ     | 英語           | ✅           | ❌                | 広告付き無料ストリーミングサービス                                   |
+| <a href="https://viki.com" target="_blank">viki.com</a>                       | アメリカ     | 多言語         | ✅           | ❌                | アジアのドラマや映画のストリーミングサービス                         |
+| <a href="https://vimeo.com" target="_blank">vimeo.com</a>                     | アメリカ     | 多言語         | ✅           | ❌                | プロフェッショナル向け動画共有プラットフォーム                       |
+| <a href="https://voot.com" target="_blank">voot.com</a>                       | インド       | 多言語         | ✅           | ❌                | Viacom18 のインド向けストリーミングサービス                          |
+| <a href="https://animekai.to" target="_blank">animekai.to</a>                 | 国際         | 英語           | ✅           | ❌                | アニメストリーミングサイト                                           |
+| <a href="https://anigo.to" target="_blank">anigo.to</a>                       | 国際         | 英語           | ✅           | ❌                | アニメストリーミングサイト                                           |
+| <a href="https://hianimez.to" target="_blank">hianimez.to</a>                 | 国際         | 英語           | ✅           | ❌                | アニメストリーミングサイト                                           |
+| <a href="https://kaido.to" target="_blank">kaido.to</a>                       | 国際         | 英語           | ✅           | ❌                | アニメストリーミングサイト                                           |
+| <a href="https://aniwatchtv.to" target="_blank">aniwatchtv.to</a>             | 国際         | 英語           | ✅           | ❌                | アニメストリーミングサイト                                           |
+| <a href="https://anicrush.to" target="_blank">anicrush.to</a>                 | 国際         | 英語           | ✅           | ❌                | アニメストリーミングサイト                                           |
+| <a href="https://9animetv.to" target="_blank">9animetv.to</a>                 | 国際         | 英語           | ✅           | ❌                | アニメストリーミングサイト                                           |
+| <a href="https://4anime.gg" target="_blank">4anime.gg</a>                     | 国際         | 英語           | ✅           | ❌                | アニメストリーミングサイト                                           |
+| <a href="https://kaa.mx" target="_blank">kaa.mx</a>                           | 国際         | 英語           | ✅           | ❌                | アニメストリーミングサイト                                           |
+| <a href="https://animeowl.me" target="_blank">animeowl.me</a>                 | 国際         | 英語           | ✅           | ❌                | アニメストリーミングサイト                                           |
+| <a href="https://hikari.gg" target="_blank">hikari.gg</a>                     | 国際         | 英語           | ✅           | ❌                | アニメストリーミングサイト                                           |
+| <a href="https://www.miruro.tv" target="_blank">miruro.tv</a>                 | 国際         | 英語           | ✅           | ❌                | アニメストリーミングサイト                                           |
+| <a href="https://animesugetv.to" target="_blank">animesugetv.to</a>           | 国際         | 英語           | ✅           | ❌                | アニメストリーミングサイト                                           |
+| <a href="https://animexin.dev" target="_blank">animexin.dev</a>               | インドネシア | インドネシア語 | ✅           | ❌                | インドネシアのアニメストリーミングサイト                             |
+
+### ライブストリーミング
+
+| ウェブサイト                                                              | 国/地域  | 言語   | 字幕サポート | 弾幕サポート      | 説明                                                             |
+| ------------------------------------------------------------------------- | -------- | ------ | ------------ | ----------------- | ---------------------------------------------------------------- |
+| <a href="https://twitch.tv" target="_blank">twitch.tv</a>                 | アメリカ | 多言語 | ✅           | ✅ (チャット弾幕) | ゲームに特化した世界有数のライブストリーミングプラットフォーム   |
+| <a href="https://chzzk.naver.com" target="_blank">chzzk.naver.com</a>     | 韓国     | 韓国語 | ❌           | ✅                | Naver が運営する韓国のライブストリーミングプラットフォーム       |
+| <a href="https://huya.com" target="_blank">huya.com</a>                   | 中国     | 中国語 | ❌           | ✅                | 中国の主要なゲームライブストリーミングプラットフォーム           |
+| <a href="https://douyu.com" target="_blank">douyu.com</a>                 | 中国     | 中国語 | ❌           | ✅                | 中国の主要なゲームライブストリーミングプラットフォーム           |
+| <a href="https://afreecatv.com" target="_blank">afreecatv.com</a>         | 韓国     | 韓国語 | ❌           | ✅                | 韓国の有名なライブストリーミングプラットフォーム                 |
+| <a href="https://mildom.com" target="_blank">mildom.com</a>               | 日本     | 日本語 | ❌           | ✅                | 日本のゲームライブストリーミングプラットフォーム                 |
+| <a href="https://openrec.tv" target="_blank">openrec.tv</a>               | 日本     | 日本語 | ❌           | ✅                | 日本のゲームライブストリーミングプラットフォーム                 |
+| <a href="https://showroom-live.com" target="_blank">showroom-live.com</a> | 日本     | 日本語 | ❌           | ✅                | 日本のアイドルや芸能人向けのライブストリーミングプラットフォーム |
+| <a href="https://live.line.me" target="_blank">live.line.me</a>           | 日本     | 日本語 | ❌           | ✅                | LINE が提供するライブストリーミングサービス                      |
+
+### オンライン教育
+
+| ウェブサイト                                                                  | 国/地域  | 言語   | 字幕サポート | 弾幕サポート | 説明                                                                                     |
+| ----------------------------------------------------------------------------- | -------- | ------ | ------------ | ------------ | ---------------------------------------------------------------------------------------- |
+| <a href="https://coursera.org" target="_blank">coursera.org</a>               | アメリカ | 多言語 | ✅           | ❌           | 大学や企業が提供するコースを提供するオンライン学習プラットフォーム                       |
+| <a href="https://edx.org" target="_blank">edx.org</a>                         | アメリカ | 多言語 | ✅           | ❌           | ハーバード大学と MIT によって設立されたオンライン学習プラットフォーム                    |
+| <a href="https://khanacademy.org" target="_blank">khanacademy.org</a>         | アメリカ | 多言語 | ✅           | ❌           | 無料のオンラインコースを提供する非営利教育組織                                           |
+| <a href="https://linkedin.com" target="_blank">linkedin.com</a>               | アメリカ | 多言語 | ✅           | ❌           | プロフェッショナルネットワーキングサイトのビデオコース（LinkedIn ラーニング）            |
+| <a href="https://udemy.com" target="_blank">udemy.com</a>                     | アメリカ | 多言語 | ✅           | ❌           | オンライン学習および教育のマーケットプレイス                                             |
+| <a href="https://egghead.io" target="_blank">egghead.io</a>                   | アメリカ | 英語   | ✅           | ❌           | 短く集中的なウェブ開発ビデオチュートリアルのためのプラットフォーム                       |
+| <a href="https://frontendmasters.com" target="_blank">frontendmasters.com</a> | アメリカ | 英語   | ✅           | ❌           | 詳細な JavaScript、Node.js、フロントエンドエンジニアリングコースのためのプラットフォーム |
+| <a href="https://masterclass.com" target="_blank">masterclass.com</a>         | アメリカ | 英語   | ✅           | ❌           | 専門家がさまざまな科目を教えるストリーミングプラットフォーム                             |
+| <a href="https://skillshare.com" target="_blank">skillshare.com</a>           | アメリカ | 英語   | ✅           | ❌           | 創造的で好奇心旺盛な人々のためのオンライン学習コミュニティ                               |
+| <a href="https://thegreatcourses.com" target="_blank">thegreatcourses.com</a> | アメリカ | 英語   | ✅           | ❌           | 大学レベルのオーディオおよびビデオコースのシリーズ                                       |
+
+### テレビネットワーク
+
+| ウェブサイト                                                                  | 国/地域        | 言語         | 字幕サポート | 弾幕サポート | 説明                                                          |
+| ----------------------------------------------------------------------------- | -------------- | ------------ | ------------ | ------------ | ------------------------------------------------------------- |
+| <a href="https://tver.jp" target="_blank">tver.jp</a>                         | 日本           | 日本語       | ❌           | ❌           | 日本の民放テレビ局の公式無料見逃し配信サービス                |
+| <a href="https://nhk.or.jp" target="_blank">nhk.or.jp</a>                     | 日本           | 日本語       | ✅           | ❌           | 日本放送協会の公式ウェブサイト                                |
+| <a href="https://abema.tv" target="_blank">abema.tv</a>                       | 日本           | 日本語       | ❌           | ✅           | 日本のインターネットテレビ局                                  |
+| <a href="https://bbc.com" target="_blank">bbc.com</a>                         | イギリス       | 英語         | ✅           | ❌           | 英国放送協会の公式ウェブサイト                                |
+| <a href="https://cbs.com" target="_blank">cbs.com</a>                         | アメリカ       | 英語         | ✅           | ❌           | アメリカのテレビネットワーク CBS の公式ウェブサイト           |
+| <a href="https://sbs.com.au" target="_blank">sbs.com.au</a>                   | オーストラリア | 英語         | ✅           | ❌           | オーストラリアの多文化放送局                                  |
+| <a href="https://fox.com" target="_blank">fox.com</a>                         | アメリカ       | 英語         | ✅           | ❌           | アメリカのテレビネットワーク Fox の公式ウェブサイト           |
+| <a href="https://globoplay.globo.com" target="_blank">globoplay.globo.com</a> | ブラジル       | ポルトガル語 | ✅           | ❌           | ブラジルのテレビネットワーク Globo のストリーミングサービス   |
+| <a href="https://indiatoday.in" target="_blank">indiatoday.in</a>             | インド         | 英語         | ✅           | ❌           | インドのニュースネットワーク India Today Group のウェブサイト |
+| <a href="https://itv.com" target="_blank">itv.com</a>                         | イギリス       | 英語         | ✅           | ❌           | イギリスの商業テレビネットワーク                              |
+| <a href="https://nbc.com" target="_blank">nbc.com</a>                         | アメリカ       | 英語         | ✅           | ❌           | アメリカのテレビネットワーク NBC の公式ウェブサイト           |
+| <a href="https://pbs.org" target="_blank">pbs.org</a>                         | アメリカ       | 英語         | ✅           | ❌           | アメリカの公共放送サービス                                    |
+| <a href="https://www.tf1.fr" target="_blank">tf1.fr</a>                       | フランス       | フランス語   | ✅           | ❌           | フランスのテレビネットワーク TF1 の公式ウェブサイト           |
+| <a href="https://zdf.de" target="_blank">zdf.de</a>                           | ドイツ         | ドイツ語     | ✅           | ❌           | ドイツの公共テレビ放送局 ZDF の公式ウェブサイト               |
+
+### ニュース＆メディア
+
+| ウェブサイト                                                      | 国/地域  | 言語   | 字幕サポート | 弾幕サポート | 説明                                               |
+| ----------------------------------------------------------------- | -------- | ------ | ------------ | ------------ | -------------------------------------------------- |
+| <a href="https://forbes.com" target="_blank">forbes.com</a>       | アメリカ | 英語   | ✅           | ❌           | アメリカのビジネス誌                               |
+| <a href="https://bloomberg.com" target="_blank">bloomberg.com</a> | アメリカ | 英語   | ✅           | ❌           | 世界的な金融情報およびニュース企業                 |
+| <a href="https://reuters.com" target="_blank">reuters.com</a>     | イギリス | 多言語 | ✅           | ❌           | 国際的なニュース通信社                             |
+| <a href="https://wsj.com" target="_blank">wsj.com</a>             | アメリカ | 英語   | ✅           | ❌           | ウォール・ストリート・ジャーナルの公式ウェブサイト |
+
+### ソーシャル＆クリエイタープラットフォーム
+
+| ウェブサイト                                                          | 国/地域  | 言語   | 字幕サポート | 弾幕サポート | 説明                                                                   |
+| --------------------------------------------------------------------- | -------- | ------ | ------------ | ------------ | ---------------------------------------------------------------------- |
+| <a href="https://twitter.com" target="_blank">twitter.com</a>         | アメリカ | 多言語 | ✅           | ❌           | ソーシャルネットワーキングおよびマイクロブログサービス                 |
+| <a href="https://facebook.com" target="_blank">facebook.com</a>       | アメリカ | 多言語 | ✅           | ❌           | 世界最大のソーシャルネットワーキングサイト                             |
+| <a href="https://patreon.com" target="_blank">patreon.com</a>         | アメリカ | 多言語 | ✅           | ❌           | クリエイター向けの会員制プラットフォーム                               |
+| <a href="https://kickstarter.com" target="_blank">kickstarter.com</a> | アメリカ | 英語   | ✅           | ❌           | クリエイティブプロジェクト向けのクラウドファンディングプラットフォーム |
+
+### その他のプラットフォーム
+
+| ウェブサイト                                                    | 国/地域  | 言語   | 字幕サポート | 弾幕サポート | 説明                                                                   |
+| --------------------------------------------------------------- | -------- | ------ | ------------ | ------------ | ---------------------------------------------------------------------- |
+| <a href="https://odysee.com" target="_blank">odysee.com</a>     | アメリカ | 多言語 | ✅           | ❌           | LBRY ネットワーク上に構築された動画共有サイト                          |
+| <a href="https://bitchute.com" target="_blank">bitchute.com</a> | イギリス | 英語   | ✅           | ❌           | P2P 技術を利用した動画共有サービス                                     |
+| <a href="https://archive.org" target="_blank">archive.org</a>   | アメリカ | 多言語 | ✅           | ❌           | デジタル化された資料の膨大なコレクションを持つ非営利デジタルライブラリ |
+| <a href="https://vidyard.com" target="_blank">vidyard.com</a>   | カナダ   | 英語   | ✅           | ❌           | 企業向けのビデオマーケティングおよびセールスプラットフォーム           |
 
 ## ユニバーサル動画プレーヤー
 
