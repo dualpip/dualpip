@@ -1,0 +1,25 @@
+> [!NOTE]
+> Denna lista innehåller webbplatser som vi har testat och bekräftat som stödda. Vi tillhandahåller universella tekniska lösningar, men på grund av begränsade resurser kan vi inte testa alla webbplatser. Webbplatser som inte ingår i listan betyder inte nödvändigtvis att de inte stöds - du kan testa dem själv.
+
+### Nyheter och media
+
+| Webbplats                                                                   | Land/Region    | Språk             | Undertextstöd | Danmaku-stöd | Beskrivning                                                                          |
+| --------------------------------------------------------------------------- | -------------- | ----------------- | ------------- | ------------ | ------------------------------------------------------------------------------------ |
+| <a href="https://abcnews.go.com" target="_blank">abcnews.go.com</a>         | USA            | Engelska          | ✅(Delvis)    | ❌           | Officiell webbplats för ABC News                                                     |
+| <a href="https://aljazeera.com" target="_blank">aljazeera.com</a>           | Qatar          | Engelska/Arabiska | ✅            | ❌           | Officiell webbplats för Al Jazeera                                                   |
+| <a href="https://aol.com" target="_blank">aol.com</a>                       | USA            | Engelska          | ✅            | ❌           | En portalwebbplats som tillhandahåller nyheter, e-post och söktjänster               |
+| <a href="https://bloomberg.com" target="_blank">bloomberg.com</a>           | USA            | Engelska          | ✅            | ❌           | Bloomberg är en ledande leverantör av globala affärs-, finans- och nyhetsinformation |
+| <a href="https://cbsnews.com" target="_blank">cbsnews.com</a>               | USA            | Engelska          | ✅            | ❌           | Officiell webbplats för CBS News                                                     |
+| <a href="https://coindesk.com" target="_blank">coindesk.com</a>             | USA            | Engelska          | ✅            | ❌           | En nyhetswebbplats fokuserad på kryptovaluta och blockchain                          |
+| <a href="https://espn.com" target="_blank">espn.com</a>                     | USA            | Engelska          | ✅            | ❌           | En ledande sportnyhets- och informationswebbplats                                    |
+| <a href="https://f1tv.formula1.com" target="_blank">f1tv.formula1.com</a>   | Internationell | Engelska          | ✅            | ❌           | Den officiella streamingtjänsten för Formel 1                                        |
+| <a href="https://www.foxnews.com" target="_blank">www.foxnews.com</a>       | USA            | Engelska          | ✅            | ❌           | Officiell webbplats för Fox News                                                     |
+| <a href="https://imdb.com" target="_blank">imdb.com</a>                     | USA            | Flerspråkig       | ✅            | ❌           | Världens mest populära källa för film-, TV- och kändisinformation                    |
+| <a href="https://medici.tv" target="_blank">medici.tv</a>                   | Frankrike      | Flerspråkig       | ✅            | ❌           | En ledande klassisk musik-streamingplattform                                         |
+| <a href="https://nbcnews.com" target="_blank">nbcnews.com</a>               | USA            | Engelska          | ✅            | ❌           | Officiell webbplats för NBC News                                                     |
+| <a href="https://nytimes.com" target="_blank">nytimes.com</a>               | USA            | Engelska          | ✅            | ❌           | Officiell webbplats för The New York Times                                           |
+| <a href="https://reuters.com" target="_blank">reuters.com</a>               | Storbritannien | Flerspråkig       | ✅            | ❌           | Reuters är en ledande global internationell nyhetsbyrå                               |
+| <a href="https://theguardian.com" target="_blank">theguardian.com</a>       | Storbritannien | Engelska          | ✅            | ❌           | En brittisk dagstidning                                                              |
+| <a href="https://washingtonpost.com" target="_blank">washingtonpost.com</a> | USA            | Engelska          | ✅            | ❌           | Officiell webbplats för The Washington Post                                          |
+| <a href="https://wired.com" target="_blank">wired.com</a>                   | USA            | Engelska          | ✅            | ❌           | Officiell webbplats för Wired-tidningen, fokuserad på teknik och kultur              |
+| <a href="https://wsj.com" target="_blank">wsj.com</a>                       | USA            | Engelska          | ✅            | ❌           | Officiell webbplats för The Wall Street Journal                                      |

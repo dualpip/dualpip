@@ -38,6 +38,18 @@ export default defineConfig({
             ]
           },
           {
+            text: 'Video Platforms',
+            items: [
+              { text: 'Video & Streaming', link: '/video-platforms/video-streaming' },
+              { text: 'Live Streaming', link: '/video-platforms/live-streaming' },
+              { text: 'Online Education', link: '/video-platforms/online-education' },
+              { text: 'TV Networks', link: '/video-platforms/tv-networks' },
+              { text: 'News & Media', link: '/video-platforms/news-media' },
+              { text: 'Social & Creator', link: '/video-platforms/social-creator' },
+              { text: 'Other Platforms', link: '/video-platforms/other-platforms' }
+            ]
+          },
+          {
             text: 'Advanced',
             items: [
               { text: 'Extension Limitations', link: '/limitations' },
@@ -47,7 +59,6 @@ export default defineConfig({
           {
             text: 'Reference',
             items: [
-              { text: 'Video Platform Support', link: '/video-platforms-support' },
               { text: 'Changelog', link: '/changelog' }
             ]
           }
@@ -85,6 +96,18 @@ export default defineConfig({
             ]
           },
           {
+            text: 'Video-Plattformen',
+            items: [
+              { text: 'Video & Streaming', link: '/de/video-platforms/video-streaming' },
+              { text: 'Live-Streaming', link: '/de/video-platforms/live-streaming' },
+              { text: 'Online-Bildung', link: '/de/video-platforms/online-education' },
+              { text: 'TV-Netzwerke', link: '/de/video-platforms/tv-networks' },
+              { text: 'Nachrichten & Medien', link: '/de/video-platforms/news-media' },
+              { text: 'Sozial & Creator', link: '/de/video-platforms/social-creator' },
+              { text: 'Andere Plattformen', link: '/de/video-platforms/other-platforms' }
+            ]
+          },
+          {
             text: 'Erweitert',
             items: [
               { text: 'Erweiterungs-Limitierungen', link: '/de/limitations' },
@@ -94,7 +117,6 @@ export default defineConfig({
           {
             text: 'Referenz',
             items: [
-              { text: 'Video-Plattform-Unterstützung', link: '/de/video-platforms-support' },
               { text: 'Änderungsprotokoll', link: '/de/changelog' }
             ]
           }
@@ -132,6 +154,18 @@ export default defineConfig({
             ]
           },
           {
+            text: '视频平台',
+            items: [
+              { text: '视频和流媒体', link: '/zh_CN/video-platforms/video-streaming' },
+              { text: '直播', link: '/zh_CN/video-platforms/live-streaming' },
+              { text: '在线教育', link: '/zh_CN/video-platforms/online-education' },
+              { text: '电视网络', link: '/zh_CN/video-platforms/tv-networks' },
+              { text: '新闻和媒体', link: '/zh_CN/video-platforms/news-media' },
+              { text: '社交和创作者', link: '/zh_CN/video-platforms/social-creator' },
+              { text: '其他平台', link: '/zh_CN/video-platforms/other-platforms' }
+            ]
+          },
+          {
             text: '高级功能',
             items: [
               { text: '扩展限制', link: '/zh_CN/limitations' },
@@ -141,7 +175,6 @@ export default defineConfig({
           {
             text: '参考资料',
             items: [
-              { text: '视频平台功能支持列表', link: '/zh_CN/video-platforms-support' },
               { text: '更新日志', link: '/zh_CN/changelog' }
             ]
           }
@@ -179,6 +212,18 @@ export default defineConfig({
             ]
           },
           {
+            text: 'ビデオプラットフォーム',
+            items: [
+              { text: '動画＆ストリーミング', link: '/ja/video-platforms/video-streaming' },
+              { text: 'ライブストリーミング', link: '/ja/video-platforms/live-streaming' },
+              { text: 'オンライン教育', link: '/ja/video-platforms/online-education' },
+              { text: 'TVネットワーク', link: '/ja/video-platforms/tv-networks' },
+              { text: 'ニュース＆メディア', link: '/ja/video-platforms/news-media' },
+              { text: 'ソーシャル＆クリエイター', link: '/ja/video-platforms/social-creator' },
+              { text: 'その他のプラットフォーム', link: '/ja/video-platforms/other-platforms' }
+            ]
+          },
+          {
             text: '上級者向け',
             items: [
               { text: '拡張機能の制限', link: '/ja/limitations' },
@@ -188,7 +233,6 @@ export default defineConfig({
           {
             text: 'リファレンス',
             items: [
-              { text: 'ビデオプラットフォーム対応', link: '/ja/video-platforms-support' },
               { text: '更新履歴', link: '/ja/changelog' }
             ]
           }
@@ -226,6 +270,18 @@ export default defineConfig({
             ]
           },
           {
+            text: '비디오 플랫폼',
+            items: [
+              { text: '비디오 & 스트리밍', link: '/ko/video-platforms/video-streaming' },
+              { text: '라이브 스트리밍', link: '/ko/video-platforms/live-streaming' },
+              { text: '온라인 교육', link: '/ko/video-platforms/online-education' },
+              { text: 'TV 네트워크', link: '/ko/video-platforms/tv-networks' },
+              { text: '뉴스 & 미디어', link: '/ko/video-platforms/news-media' },
+              { text: '소셜 & 크리에이터', link: '/ko/video-platforms/social-creator' },
+              { text: '기타 플랫폼', link: '/ko/video-platforms/other-platforms' }
+            ]
+          },
+          {
             text: '고급',
             items: [
               { text: '확장 기능 제한사항', link: '/ko/limitations' },
@@ -235,7 +291,6 @@ export default defineConfig({
           {
             text: '참고자료',
             items: [
-              { text: '비디오 플랫폼 지원', link: '/ko/video-platforms-support' },
               { text: '변경 로그', link: '/ko/changelog' }
             ]
           }
@@ -273,6 +328,18 @@ export default defineConfig({
             ]
           },
           {
+            text: 'Plataformas de Video',
+            items: [
+              { text: 'Video & Streaming', link: '/es/video-platforms/video-streaming' },
+              { text: 'Streaming en Vivo', link: '/es/video-platforms/live-streaming' },
+              { text: 'Educación en Línea', link: '/es/video-platforms/online-education' },
+              { text: 'Redes de TV', link: '/es/video-platforms/tv-networks' },
+              { text: 'Noticias & Medios', link: '/es/video-platforms/news-media' },
+              { text: 'Social & Creador', link: '/es/video-platforms/social-creator' },
+              { text: 'Otras Plataformas', link: '/es/video-platforms/other-platforms' }
+            ]
+          },
+          {
             text: 'Avanzado',
             items: [
               { text: 'Limitaciones de Extensión', link: '/es/limitations' },
@@ -282,7 +349,6 @@ export default defineConfig({
           {
             text: 'Referencia',
             items: [
-              { text: 'Soporte de Plataformas de Video', link: '/es/video-platforms-support' },
               { text: 'Registro de Cambios', link: '/es/changelog' }
             ]
           }
@@ -320,6 +386,18 @@ export default defineConfig({
             ]
           },
           {
+            text: 'Plateformes Vidéo',
+            items: [
+              { text: 'Vidéo & Streaming', link: '/fr/video-platforms/video-streaming' },
+              { text: 'Streaming en Direct', link: '/fr/video-platforms/live-streaming' },
+              { text: 'Éducation en Ligne', link: '/fr/video-platforms/online-education' },
+              { text: 'Réseaux TV', link: '/fr/video-platforms/tv-networks' },
+              { text: 'Actualités & Médias', link: '/fr/video-platforms/news-media' },
+              { text: 'Social & Créateur', link: '/fr/video-platforms/social-creator' },
+              { text: 'Autres Plateformes', link: '/fr/video-platforms/other-platforms' }
+            ]
+          },
+          {
             text: 'Avancé',
             items: [
               { text: 'Limitations d\'Extension', link: '/fr/limitations' },
@@ -329,7 +407,6 @@ export default defineConfig({
           {
             text: 'Référence',
             items: [
-              { text: 'Support des Plateformes Vidéo', link: '/fr/video-platforms-support' },
               { text: 'Journal des Modifications', link: '/fr/changelog' }
             ]
           }
@@ -367,6 +444,18 @@ export default defineConfig({
             ]
           },
           {
+            text: 'Piattaforme Video',
+            items: [
+              { text: 'Video & Streaming', link: '/it/video-platforms/video-streaming' },
+              { text: 'Streaming Live', link: '/it/video-platforms/live-streaming' },
+              { text: 'Istruzione Online', link: '/it/video-platforms/online-education' },
+              { text: 'Reti TV', link: '/it/video-platforms/tv-networks' },
+              { text: 'Notizie & Media', link: '/it/video-platforms/news-media' },
+              { text: 'Social & Creatore', link: '/it/video-platforms/social-creator' },
+              { text: 'Altre Piattaforme', link: '/it/video-platforms/other-platforms' }
+            ]
+          },
+          {
             text: 'Avanzato',
             items: [
               { text: 'Limitazioni Estensione', link: '/it/limitations' },
@@ -376,7 +465,6 @@ export default defineConfig({
           {
             text: 'Riferimento',
             items: [
-              { text: 'Supporto Piattaforme Video', link: '/it/video-platforms-support' },
               { text: 'Registro delle Modifiche', link: '/it/changelog' }
             ]
           }
@@ -414,6 +502,18 @@ export default defineConfig({
             ]
           },
           {
+            text: 'Video Platforms',
+            items: [
+              { text: 'Video & Streaming', link: '/nl/video-platforms/video-streaming' },
+              { text: 'Live Streaming', link: '/nl/video-platforms/live-streaming' },
+              { text: 'Online Onderwijs', link: '/nl/video-platforms/online-education' },
+              { text: 'TV Netwerken', link: '/nl/video-platforms/tv-networks' },
+              { text: 'Nieuws & Media', link: '/nl/video-platforms/news-media' },
+              { text: 'Sociaal & Maker', link: '/nl/video-platforms/social-creator' },
+              { text: 'Andere Platformen', link: '/nl/video-platforms/other-platforms' }
+            ]
+          },
+          {
             text: 'Geavanceerd',
             items: [
               { text: 'Uitbreiding Beperkingen', link: '/nl/limitations' },
@@ -423,7 +523,6 @@ export default defineConfig({
           {
             text: 'Referentie',
             items: [
-              { text: 'Video Platform Ondersteuning', link: '/nl/video-platforms-support' },
               { text: 'Wijzigingslog', link: '/nl/changelog' }
             ]
           }
@@ -461,6 +560,18 @@ export default defineConfig({
             ]
           },
           {
+            text: 'Plataformas de Vídeo',
+            items: [
+              { text: 'Vídeo & Streaming', link: '/pt/video-platforms/video-streaming' },
+              { text: 'Streaming Ao Vivo', link: '/pt/video-platforms/live-streaming' },
+              { text: 'Educação Online', link: '/pt/video-platforms/online-education' },
+              { text: 'Redes de TV', link: '/pt/video-platforms/tv-networks' },
+              { text: 'Notícias & Mídia', link: '/pt/video-platforms/news-media' },
+              { text: 'Social & Criador', link: '/pt/video-platforms/social-creator' },
+              { text: 'Outras Plataformas', link: '/pt/video-platforms/other-platforms' }
+            ]
+          },
+          {
             text: 'Avançado',
             items: [
               { text: 'Limitações da Extensão', link: '/pt/limitations' },
@@ -470,7 +581,6 @@ export default defineConfig({
           {
             text: 'Referência',
             items: [
-              { text: 'Suporte de Plataformas de Vídeo', link: '/pt/video-platforms-support' },
               { text: 'Registro de Alterações', link: '/pt/changelog' }
             ]
           }
@@ -508,6 +618,18 @@ export default defineConfig({
             ]
           },
           {
+            text: 'Видеоплатформы',
+            items: [
+              { text: 'Видео & Стриминг', link: '/ru/video-platforms/video-streaming' },
+              { text: 'Прямые Трансляции', link: '/ru/video-platforms/live-streaming' },
+              { text: 'Онлайн Образование', link: '/ru/video-platforms/online-education' },
+              { text: 'ТВ Сети', link: '/ru/video-platforms/tv-networks' },
+              { text: 'Новости & Медиа', link: '/ru/video-platforms/news-media' },
+              { text: 'Социальные & Создатели', link: '/ru/video-platforms/social-creator' },
+              { text: 'Другие Платформы', link: '/ru/video-platforms/other-platforms' }
+            ]
+          },
+          {
             text: 'Расширенные',
             items: [
               { text: 'Ограничения Расширения', link: '/ru/limitations' },
@@ -517,7 +639,6 @@ export default defineConfig({
           {
             text: 'Справочник',
             items: [
-              { text: 'Поддержка Видеоплатформ', link: '/ru/video-platforms-support' },
               { text: 'Журнал Изменений', link: '/ru/changelog' }
             ]
           }
@@ -555,6 +676,18 @@ export default defineConfig({
             ]
           },
           {
+            text: 'Videoplattformar',
+            items: [
+              { text: 'Video & Streaming', link: '/sv/video-platforms/video-streaming' },
+              { text: 'Live Streaming', link: '/sv/video-platforms/live-streaming' },
+              { text: 'Online Utbildning', link: '/sv/video-platforms/online-education' },
+              { text: 'TV-Nätverk', link: '/sv/video-platforms/tv-networks' },
+              { text: 'Nyheter & Media', link: '/sv/video-platforms/news-media' },
+              { text: 'Sociala & Skapare', link: '/sv/video-platforms/social-creator' },
+              { text: 'Andra Plattformar', link: '/sv/video-platforms/other-platforms' }
+            ]
+          },
+          {
             text: 'Avancerat',
             items: [
               { text: 'Tilläggs Begränsningar', link: '/sv/limitations' },
@@ -564,7 +697,6 @@ export default defineConfig({
           {
             text: 'Referens',
             items: [
-              { text: 'Videoplattforms Support', link: '/sv/video-platforms-support' },
               { text: 'Ändringslogg', link: '/sv/changelog' }
             ]
           }

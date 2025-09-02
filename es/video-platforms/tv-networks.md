@@ -1,0 +1,21 @@
+> [!NOTE]
+> Esta lista contiene los sitios web que hemos probado y confirmado que son compatibles. Proporcionamos soluciones técnicas universales, pero debido a recursos limitados, no podemos probar todos los sitios web. Los sitios web no incluidos en la lista no necesariamente significan que no sean compatibles - puede probarlos usted mismo.
+
+### Redes de TV
+
+| Sitio Web                                                                     | País/Región | Idioma    | Soporte de Subtítulos | Soporte de Danmaku | Descripción                                                                                |
+| ----------------------------------------------------------------------------- | ----------- | --------- | --------------------- | ------------------ | ------------------------------------------------------------------------------------------ |
+| <a href="https://bbc.com" target="_blank">bbc.com</a>                         | Reino Unido | Inglés    | ✅                    | ❌                 | El sitio web oficial de la British Broadcasting Corporation                                |
+| <a href="https://cbs.com" target="_blank">cbs.com</a>                         | EE.UU.      | Inglés    | ✅                    | ❌                 | El sitio web oficial de la cadena de televisión estadounidense CBS                         |
+| <a href="https://sbs.com.au" target="_blank">sbs.com.au</a>                   | Australia   | Inglés    | ✅                    | ❌                 | Una emisora multicultural en Australia                                                     |
+| <a href="https://fox.com" target="_blank">fox.com</a>                         | EE.UU.      | Inglés    | ✅                    | ❌                 | El sitio web oficial de la cadena de televisión estadounidense Fox                         |
+| <a href="https://globoplay.globo.com" target="_blank">globoplay.globo.com</a> | Brasil      | Portugués | ✅                    | ❌                 | El servicio de streaming de la cadena de televisión brasileña Globo                        |
+| <a href="https://indiatoday.in" target="_blank">indiatoday.in</a>             | India       | Inglés    | ✅                    | ❌                 | El sitio web de la red de noticias india India Today Group                                 |
+| <a href="https://itv.com" target="_blank">itv.com</a>                         | Reino Unido | Inglés    | ✅                    | ❌                 | Una cadena de televisión comercial en el Reino Unido                                       |
+| <a href="https://nbc.com" target="_blank">nbc.com</a>                         | EE.UU.      | Inglés    | ✅                    | ❌                 | El sitio web oficial de la cadena de televisión estadounidense NBC                         |
+| <a href="https://pbs.org" target="_blank">pbs.org</a>                         | EE.UU.      | Inglés    | ✅                    | ❌                 | El servicio público de radiodifusión en los EE.UU.                                         |
+| <a href="https://www.tf1.fr" target="_blank">tf1.fr</a>                       | Francia     | Francés   | ✅                    | ❌                 | El sitio web oficial de la cadena de televisión francesa TF1                               |
+| <a href="https://zdf.de" target="_blank">zdf.de</a>                           | Alemania    | Alemán    | ✅                    | ❌                 | El sitio web oficial de la emisora pública alemana ZDF                                     |
+| <a href="https://tver.jp" target="_blank">tver.jp</a>                         | Japón       | Japonés   | ❌                    | ❌                 | El servicio oficial gratuito de catch-up de las cadenas de televisión comerciales en Japón |
+| <a href="https://abema.tv" target="_blank">abema.tv</a>                       | Japón       | Japonés   | ❌                    | ✅                 | Una cadena de televisión por internet japonesa                                             |
+| <a href="https://nhk.or.jp" target="_blank">nhk.or.jp</a>                     | Japón       | Japonés   | ✅                    | ❌                 | El sitio web oficial de la Japan Broadcasting Corporation                                  |
