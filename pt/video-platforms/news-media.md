@@ -1,0 +1,24 @@
+> [!NOTE]
+> Esta lista contém sites que testamos e confirmamos como suportados. Fornecemos soluções técnicas universais, mas devido a recursos limitados, não podemos testar todos os sites. Sites não incluídos na lista não significam necessariamente que não sejam suportados - você pode testá-los por conta própria.
+
+### Notícias e Mídia
+
+| Site                                                                        | País/Região   | Idioma       | Suporte a Legendas | Suporte a Danmaku | Descrição                                                                             |
+| --------------------------------------------------------------------------- | ------------- | ------------ | ------------------ | ----------------- | ------------------------------------------------------------------------------------- |
+| <a href="https://abcnews.go.com" target="_blank">abcnews.go.com</a>         | EUA           | Inglês       | ✅(Parcial)        | ❌                | O site oficial do ABC News                                                            |
+| <a href="https://aljazeera.com" target="_blank">aljazeera.com</a>           | Catar         | Inglês/Árabe | ✅                 | ❌                | O site oficial do Al Jazeera                                                          |
+| <a href="https://aol.com" target="_blank">aol.com</a>                       | EUA           | Inglês       | ✅                 | ❌                | Um site portal que fornece notícias, e-mail e serviços de busca                       |
+| <a href="https://bloomberg.com" target="_blank">bloomberg.com</a>           | EUA           | Inglês       | ✅                 | ❌                | Bloomberg é um provedor líder de informações globais de negócios, finanças e notícias |
+| <a href="https://cbsnews.com" target="_blank">cbsnews.com</a>               | EUA           | Inglês       | ✅                 | ❌                | O site oficial do CBS News                                                            |
+| <a href="https://coindesk.com" target="_blank">coindesk.com</a>             | EUA           | Inglês       | ✅                 | ❌                | Um site de notícias focado em criptomoeda e blockchain                                |
+| <a href="https://espn.com" target="_blank">espn.com</a>                     | EUA           | Inglês       | ✅                 | ❌                | Um site líder em notícias e informações esportivas                                    |
+| <a href="https://f1tv.formula1.com" target="_blank">f1tv.formula1.com</a>   | Internacional | Inglês       | ✅                 | ❌                | O serviço oficial de streaming da Fórmula 1                                           |
+| <a href="https://www.foxnews.com" target="_blank">www.foxnews.com</a>       | EUA           | Inglês       | ✅                 | ❌                | O site oficial do Fox News                                                            |
+| <a href="https://imdb.com" target="_blank">imdb.com</a>                     | EUA           | Multilíngue  | ✅                 | ❌                | A fonte mais popular do mundo para conteúdo de filmes, TV e celebridades              |
+| <a href="https://medici.tv" target="_blank">medici.tv</a>                   | França        | Multilíngue  | ✅                 | ❌                | Uma plataforma líder de streaming de música clássica                                  |
+| <a href="https://nbcnews.com" target="_blank">nbcnews.com</a>               | EUA           | Inglês       | ✅                 | ❌                | O site oficial do NBC News                                                            |
+| <a href="https://nytimes.com" target="_blank">nytimes.com</a>               | EUA           | Inglês       | ✅                 | ❌                | O site oficial do The New York Times                                                  |
+| <a href="https://reuters.com" target="_blank">reuters.com</a>               | Reino Unido   | Multilíngue  | ✅                 | ❌                | Reuters é uma agência internacional líder de notícias globais                         |
+| <a href="https://washingtonpost.com" target="_blank">washingtonpost.com</a> | EUA           | Inglês       | ✅                 | ❌                | O site oficial do The Washington Post                                                 |
+| <a href="https://wired.com" target="_blank">wired.com</a>                   | EUA           | Inglês       | ✅                 | ❌                | O site oficial da revista Wired, focado em tecnologia e cultura                       |
+| <a href="https://wsj.com" target="_blank">wsj.com</a>                       | EUA           | Inglês       | ✅                 | ❌                | O site oficial do The Wall Street Journal                                             |
